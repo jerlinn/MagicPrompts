@@ -37,6 +37,9 @@ They add depth and relevance while maintaining narrative freedom.
 5. Save Instructions
 6. Start chatting (can add Conversation-Level Knowledge anytime)
 
+![CleanShot 2024-11-18 at 01 55 53@2x](https://github.com/user-attachments/assets/0159163a-a48f-46e7-a4fe-df0dc42caed0)
+
+
 ## Tips for Knowledge Documents
 
 - Keep information factual and concise
@@ -44,3 +47,7 @@ They add depth and relevance while maintaining narrative freedom.
 - Structure with clear sections (e.g., background, expertise, interests)
 - Include only what's valuable for conversation context
 - Consider privacy when sharing personal information
+
+## Prompt design inspiration。
+![CleanShot 2024-11-18 at 00 31 23@2x](https://github.com/user-attachments/assets/d7729945-8dcf-4bbf-9121-9df7fc311908)
+
