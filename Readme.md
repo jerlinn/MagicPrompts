@@ -1,4 +1,4 @@
-# 💥 Big Bang ｜ for [Claude](claude.ai)
+# 💥 Big Bang ｜ for [Claude](https://claude.ai)  
 
 Transform direct questions into illuminating journeys through structured storytelling and guided reflection.
 
