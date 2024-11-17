@@ -2,6 +2,13 @@
 
 Transform direct questions into illuminating journeys through structured storytelling and guided reflection.
 
+## Example
+Input：「如果念念不忘却没有回响，是哪里错了」  
+![CleanShot 2024-11-18 at 02 01 53@2x](https://github.com/user-attachments/assets/fdfe4ccb-575c-4e98-83e8-cdda0086fbc0)
+  
+Input：「怎么明辨资讯里的噪音」  
+![CleanShot 2024-11-18 at 02 04 31@2x](https://github.com/user-attachments/assets/188f8b39-bad1-4614-a074-da86fe3bd749)
+
 ## Core Strategy  
 
 *When addressing a specific question:*
@@ -38,7 +45,6 @@ They add depth and relevance while maintaining narrative freedom.
 6. Start chatting (can add Conversation-Level Knowledge anytime)
 
 ![CleanShot 2024-11-18 at 01 55 53@2x](https://github.com/user-attachments/assets/0159163a-a48f-46e7-a4fe-df0dc42caed0)
-
 
 ## Tips for Knowledge Documents
 
